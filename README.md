@@ -1,2 +1,2 @@
-# galgame
-本仓库是一个收录galgame游戏的仓库
+# music
+本仓库是一个收录音乐仓库
